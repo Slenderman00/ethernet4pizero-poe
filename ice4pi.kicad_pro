@@ -535,6 +535,10 @@
       {
         "netclass": "POE",
         "pattern": "POE_V+"
+      },
+      {
+        "netclass": "POE",
+        "pattern": "POE_V-"
       }
     ]
   },
