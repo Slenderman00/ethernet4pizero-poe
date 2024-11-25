@@ -7572,6 +7572,17 @@
 		)
 		(uuid "fba113c1-7351-490e-a5c2-e97e5b20435c")
 	)
+	(text "TODO: FIX LED POLARITY"
+		(exclude_from_sim no)
+		(at 105.41 88.9 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(color 241 0 0 1)
+			)
+		)
+		(uuid "17a0e4e0-dcea-47ac-a357-954af9637b64")
+	)
 	(label "TPOUT-"
 		(at 46.99 101.6 0)
 		(fields_autoplaced yes)
