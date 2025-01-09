@@ -12331,7 +12331,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b8f643b5-06f2-47e4-8999-cc6d984161cd")
-		(property "Reference" "R13"
+		(property "Reference" "R7"
 			(at 106.68 105.41 90)
 			(effects
 				(font
@@ -12383,7 +12383,7 @@
 		(instances
 			(project "ice4pi"
 				(path "/0f54db53-a272-4955-88fb-d7ab00657bb0"
-					(reference "R13")
+					(reference "R7")
 					(unit 1)
 				)
 			)
